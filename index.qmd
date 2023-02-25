@@ -1,0 +1,20 @@
+# Preface {.unnumbered}
+
+Welcome.
+
+## Course plan
+
+1. 19.04.2023: Introduction, History of Atonal Theory
+2. 26.04.2023: Basic Concepts and Definitions
+3. 03.05.2023: **entfällt** (Vorträge NF Konrad)
+4. 10.05.2023: Analyse I 
+5. 17.05.2023: Python Implementation
+6. 24.05.2023: **online** (cont.)
+7. 31.05.2023: Recapitulation, PC Sets
+8. 07.06.2023: Implementation
+9. 14.06.2023: Analyse II
+10. 23.06.2023: Special relationships / Implementation
+11. 28.06.2023: Analyse III
+12. 05.07.2023: Centricity, Referential Collections, Triadic Post-Tonality
+13. 12.07.2023: Twelve-Tone Operations, Implementation
+14. 19.07.2023: Further Twelve-Tone Topics, Discussion and Conclusion
